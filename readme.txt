@@ -5,4 +5,8 @@ Git tracks changes of files.
 Guan li xiugai shiyan. 
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+<<<<<<< HEAD
 111 - 222
+=======
+111 + 222
+>>>>>>> feature1
